@@ -1,0 +1,62 @@
+🛠️ FNP Data Analysis Dashboard
+This Excel project analyses order and revenue data for Ferns N Petals (FNP) to derive meaningful business insights.
+
+🔍 Project Summary
+Tools Used: Microsoft Excel (Power Query, Power Pivot, Pivot Charts, Slicers)
+
+Objective: To analyse customer purchasing patterns, identify top products, and evaluate revenue trends across occasions, categories, and cities.
+
+📊 Key Dashboard Analyses
+Revenue by Occasion
+Visualises revenue across different occasions such as Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, and Valentine’s Day.
+→ Anniversary and Raksha Bandhan generate the highest revenues.
+
+Revenue by Category
+Compares product categories (Cake, Colors, Mugs, Plants, Soft Toys, Sweets).
+→ Colors, Soft Toys, and Sweets are the top-selling categories.
+
+Revenue by Month
+Displays monthly sales trends to identify seasonal peaks.
+→ March and October show significant spikes in revenue.
+
+Revenue by City
+Highlights revenue distribution across cities like Dhanera, Bhikangaon, Bijapur, Dibrugarh, Guwahati, Hardwar, Imphal, Kalval, North Dumdum.
+→ Cities like Dibrugarh and Imphal have higher sales figures.
+
+Top 5 Products by Revenue
+Displays the highest revenue-generating products:
+Deserunt Box
+Dolores Gift
+Harum Pack
+Magham Set
+Quia Gift
+
+Revenue by Hour (Order Time) 
+Helpful to optimise marketing and operational decisions based on peak ordering hours.
+
+Average of Different Order Deliveries
+Calculated as 5.53 days, useful for tracking fulfilment performance.
+
+💡 Skills Applied
+✅ Power Query for data cleaning and transformation
+✅ Power Pivot for data modelling and DAX measure creation
+✅ Interactive Dashboards with slicers and pivot charts
+✅ Data storytelling to derive actionable insights
+
+🚀 Impact
+This dashboard helps FNP business teams:
+
+Identify high revenue occasions and categories for targeted marketing
+
+Optimise city-wise inventory planning
+
+Monitor monthly and hourly sales trends to enhance operational efficiency
+
+Analyse top products for strategic promotions and product focus
+
+📈 Learning Outcomes
+Through this project, I deepened my skills in:
+Advanced Excel analytics
+Business data visualisation
+Power Query transformation pipelines
+Data-driven storytelling for e-commerce businesses
